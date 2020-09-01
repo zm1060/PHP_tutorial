@@ -1,0 +1,25 @@
+<script>
+    $(function() {
+        $('#comment-form').on('submit',function(e) {
+            e.preventDefault();
+            var nickname = $('#nickname').val().trim();
+            var content  = $('#content').val().trim();
+            var $btn = $(this).find('button');
+            $btn.text('提交中').prop('disabled',true);
+            $.post('__URL__/comment?id={$Think.get.id}',{nickname:nickname,content:content},function(data){
+                $btn.text('发表').prop('disabled' , false);
+                if(data.status !== undefined && data.status === 0){
+                    alert(data.info);
+                    return;
+                }
+                commentSucceed($data);
+                $('#nickname').val('');
+                $('#content').val('');
+            }, 'json');
+        });
+        function commentSuccees(data) {
+            var $html = $('<div class="media">\n\t<div class="media-body"><h4 class="media-heading">' + data.nickname + '<small>' + data.createdAt + '</small></h4><p>' + data.content + '</p></div></div>');
+            $('#conmments').prepend($html);
+        }
+    });
+</script>

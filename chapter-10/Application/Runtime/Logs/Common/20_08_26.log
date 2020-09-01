@@ -1,0 +1,12 @@
+[ 2020-08-26T15:59:39+08:00 ] 127.0.0.1 /chapter-10/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000236s ]
+ERR: 无法加载模块:Index
+
+[ 2020-08-26T15:59:47+08:00 ] 127.0.0.1 /chapter-10/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+ERR: 无法加载模块:Login
+

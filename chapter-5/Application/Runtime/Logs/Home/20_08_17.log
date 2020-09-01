@@ -1,0 +1,11 @@
+[ 2020-08-17T14:03:46+08:00 ] 127.0.0.1 /chapter-5/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001090s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000701s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `c5_user` [ RunTime:0.0054s ]
+NOTIC: [8] Undefined index: validate C:\Users\zero\Desktop\UPUPW_AP5.5_32\htdocs\thinkphp_inaction\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+SQL: SELECT * FROM `c5_user` WHERE `username` = 'admin' LIMIT 1   [ RunTime:0.0013s ]
+

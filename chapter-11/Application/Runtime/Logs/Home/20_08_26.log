@@ -1,0 +1,99 @@
+[ 2020-08-26T16:00:11+08:00 ] 127.0.0.1 /chapter-11/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000345s ]
+SQL: SHOW COLUMNS FROM `mb_message` [ RunTime:0.0370s ]
+SQL: SHOW COLUMNS FROM `mb_user` [ RunTime:0.0173s ]
+SQL: SELECT COUNT(*) AS tp_count FROM mb_message Message  JOIN mb_user User ON User.user_id=Message.user_id LIMIT 1   [ RunTime:0.0063s ]
+SQL: SELECT Message.message_id AS message_id,Message.content AS content,Message.created_at AS created_at,User.user_id AS user_id,User.username AS username FROM mb_message Message  JOIN mb_user User ON User.user_id=Message.user_id ORDER BY Message.message_id desc LIMIT 0,10   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000471s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000505s ]
+NOTIC: [8] Undefined index: user C:\Users\zero\Desktop\UPUPW_AP5.5_32\htdocs\thinkphp_inaction\chapter-11\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+NOTIC: [8] Undefined index: user C:\Users\zero\Desktop\UPUPW_AP5.5_32\htdocs\thinkphp_inaction\chapter-11\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 21 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.070856s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.070904s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007535s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000358s ]
+
+[ 2020-08-26T16:00:13+08:00 ] 127.0.0.1 /chapter-11/index.php/Home/User/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000244s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000023s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014376s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000366s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000346s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000372s ]
+
+[ 2020-08-26T16:00:21+08:00 ] 127.0.0.1 /chapter-11/index.php/Home/User/do_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+SQL: SHOW COLUMNS FROM `mb_user` [ RunTime:0.0127s ]
+SQL: SELECT * FROM `mb_user` WHERE `username` = '1575098153' LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000025s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000056s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000492s ]
+
+[ 2020-08-26T16:00:29+08:00 ] 127.0.0.1 /chapter-11/index.php/Home/User/do_login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000205s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000325s ]
+SQL: SHOW COLUMNS FROM `mb_user` [ RunTime:0.0152s ]
+SQL: SELECT * FROM `mb_user` WHERE `username` = '1575098153' LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2020-08-26T16:01:36+08:00 ] 127.0.0.1 /chapter-11/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000488s ]
+SQL: SHOW COLUMNS FROM `mb_message` [ RunTime:0.0141s ]
+SQL: SHOW COLUMNS FROM `mb_user` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM mb_message Message  JOIN mb_user User ON User.user_id=Message.user_id LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT Message.message_id AS message_id,Message.content AS content,Message.created_at AS created_at,User.user_id AS user_id,User.username AS username FROM mb_message Message  JOIN mb_user User ON User.user_id=Message.user_id ORDER BY Message.message_id desc LIMIT 0,10   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000050s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020891s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020930s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000474s ]
+

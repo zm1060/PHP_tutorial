@@ -1,0 +1,302 @@
+[ 2020-08-25T17:02:37+08:00 ] 127.0.0.1 /chapter-8/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000240s ]
+ERR: 参数a错误!!!
+
+[ 2020-08-25T17:02:40+08:00 ] 127.0.0.1 /chapter-8/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+ERR: 参数a错误!!!
+
+[ 2020-08-25T17:21:41+08:00 ] 127.0.0.1 /chapter-8/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+
+[ 2020-08-25T17:21:41+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2020-08-25T17:21:42+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.7297536616584299
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+
+[ 2020-08-25T17:21:43+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.34267325086541023
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2020-08-25T17:21:44+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.7700678297752652
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2020-08-25T17:21:50+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/login_do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2020-08-25T17:21:51+08:00 ] 127.0.0.1 /chapter-8/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000230s ]
+
+[ 2020-08-25T17:21:52+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+
+[ 2020-08-25T17:23:09+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/login_do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+
+[ 2020-08-25T17:23:10+08:00 ] 127.0.0.1 /chapter-8/home/index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2020-08-25T17:23:10+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+
+[ 2020-08-25T17:23:12+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/login_do
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+
+[ 2020-08-25T17:23:17+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.07680177596569604
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2020-08-25T17:23:19+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.4647323003056325
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2020-08-25T17:23:21+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.05947928615898723
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+
+[ 2020-08-25T17:23:22+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.42589748872905053
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000206s ]
+
+[ 2020-08-25T17:23:23+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.6411055057012223
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2020-08-25T17:23:23+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.6360766197566208
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2020-08-25T17:23:23+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.7086999060844579
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2020-08-25T17:23:24+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.9081556795942569
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2020-08-25T17:23:24+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.32071817621727083
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+
+[ 2020-08-25T17:23:24+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.7348719864507613
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+
+[ 2020-08-25T17:23:24+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.2060215298690804
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2020-08-25T17:23:24+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.14355250268066744
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+
+[ 2020-08-25T17:23:25+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.3768957185061197
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000252s ]
+
+[ 2020-08-25T17:23:25+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.06669334593076859
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2020-08-25T17:23:25+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.7431694041853047
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2020-08-25T17:23:26+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.036577302060322614
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2020-08-25T17:23:26+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.5645696109177227
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+
+[ 2020-08-25T17:23:26+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.3860888458083893
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000203s ]
+
+[ 2020-08-25T17:23:26+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.47860914880457694
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+
+[ 2020-08-25T17:23:26+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.5968646409974512
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+
+[ 2020-08-25T17:23:27+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.8106994841951922
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000211s ]
+
+[ 2020-08-25T17:23:27+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.20215682896144926
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2020-08-25T17:23:27+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.6579243336587415
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2020-08-25T17:23:27+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.29467938135599225
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+
+[ 2020-08-25T17:23:28+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.7360705581719327
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000286s ]
+
+[ 2020-08-25T17:23:28+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.7179162804207111
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000270s ]
+
+[ 2020-08-25T17:23:29+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.1045599064713647
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2020-08-25T17:23:29+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.23660523519961174
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2020-08-25T17:23:30+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.4079801208120608
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+
+[ 2020-08-25T17:23:30+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.8133355997663532
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000198s ]
+
+[ 2020-08-25T17:23:31+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.22454541979131548
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2020-08-25T17:23:31+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.0012050760042359165
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2020-08-25T17:23:31+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.15225721886871524
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+
+[ 2020-08-25T17:23:31+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.4662955188752711
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000196s ]
+
+[ 2020-08-25T17:23:32+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.37548901956566416
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2020-08-25T17:23:32+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.611876791279133
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000192s ]
+
+[ 2020-08-25T17:23:32+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.31141277553109914
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2020-08-25T17:23:32+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.15156757358273865
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000288s ]
+
+[ 2020-08-25T17:23:32+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.5275304235866676
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+
+[ 2020-08-25T17:23:33+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.3244802890411127
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+
+[ 2020-08-25T17:23:33+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.9020751951958648
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000255s ]
+
+[ 2020-08-25T17:23:33+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.07972331419227885
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2020-08-25T17:23:33+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.028589005507879017
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+
+[ 2020-08-25T17:23:33+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.281784576877083
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+
+[ 2020-08-25T17:23:34+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.38294162483864125
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+
+[ 2020-08-25T17:23:34+08:00 ] 127.0.0.1 /chapter-8/index.php/Home/Index/vertify.html?0.08737531139435073
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000197s ]
+
